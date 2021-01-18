@@ -1,3 +1,12 @@
+Yfinance Fork
+=============
+
+This is a fork and commits according to https://github.com/ranaroussi/yfinance/pull/480 .
+
+If you're using pipenv you can try ``pipenv install -e git+https://github.com/jeremy-leonardo/yfinance.git@0.1.56#egg=yfinance`` for a simple and easy solution.
+
+Please do note that this is a temporary solution until it's fixed here (and I might move/edit/delete this repo, so consider to fork and do it yourself)
+
 Yahoo! Finance market data downloader
 =====================================
 

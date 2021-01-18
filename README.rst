@@ -1,7 +1,7 @@
 Yfinance Fork
 =============
 
-This is a fork and commits according to https://github.com/ranaroussi/yfinance/pull/480 .
+This is a fork of ranaroussi/yfinance, commits was made according to https://github.com/ranaroussi/yfinance/pull/480 .
 
 If you're using pipenv you can try ``pipenv install -e git+https://github.com/jeremy-leonardo/yfinance.git@0.1.56#egg=yfinance`` for a simple and easy solution.
 
